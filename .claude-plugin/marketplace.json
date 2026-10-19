@@ -7,5 +7,14 @@
     "description": "Личный маркетплейс плагинов KESHNYA",
     "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "dev",
+      "source": "./plugins/dev",
+      "description": "Процесс работы над задачей с доказуемым результатом",
+      "author": {
+        "name": "Nikita Belkin"
+      }
+    }
+  ]
 }

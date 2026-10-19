@@ -25,3 +25,9 @@ plugins/<имя-плагина>/            — папка каждого пла
 ```json
 { "name": "<имя>", "source": "./plugins/<имя>", "description": "..." }
 ```
+
+## Плагины
+
+| Плагин | Описание | Автор |
+|---|---|---|
+| `dev` | Процесс работы над задачей с доказуемым результатом | [Nikita Belkin](https://github.com/belkinsrc) — перенесено из [belkinsrc/claude-process](https://github.com/belkinsrc/claude-process) с согласия автора |
