@@ -1,0 +1,11 @@
+{
+  "name": "keshnya-plugins",
+  "owner": {
+    "name": "KESHNYA"
+  },
+  "metadata": {
+    "description": "Личный маркетплейс плагинов KESHNYA",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
